@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: azure;
+}
+
+.main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+h3 {
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+
+textarea {
+    width: 50vw;
+    height: 30vh;
+}
